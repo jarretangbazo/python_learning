@@ -1,0 +1,19 @@
+# Data files
+*.csv
+*.xlsx
+*.json
+data/raw/
+data/processed/
+logs/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
